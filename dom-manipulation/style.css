@@ -10,15 +10,12 @@ html, body {
     width: 100%;
 }
 
-#bulb {
+#box {
     height: 300px;
     width: 300px;
-    border-radius: 50%;
-    border: 4px solid #000;
+    background-color: salmon;
 }
 
-button{
-    padding: 10px 20px;
-    font-size: 20px;
-    margin: 80px;
+h1 {
+    color: royalblue;
 }
