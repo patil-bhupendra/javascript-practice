@@ -7,3 +7,7 @@ These projects helped me strengthen my understanding of DOM manipulation and eve
 ## Projects Included
 
 1. Add Friend Toggle (Single Button)
+
+
+
+More projects and enhancements will be added soon.
