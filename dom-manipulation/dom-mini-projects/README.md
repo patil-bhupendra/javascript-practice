@@ -5,3 +5,5 @@ A collection of small UI-focused projects built using **HTML, CSS, and JavaScrip
 These projects helped me strengthen my understanding of DOM manipulation and event handling.
 
 ## Projects Included
+
+1. Add Friend Toggle (Single Button)
