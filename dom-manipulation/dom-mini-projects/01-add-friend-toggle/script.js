@@ -1,14 +1,18 @@
-var statusText = document.querySelector("h5")
-var addFriend = document.querySelector("#add")
-var removeFriend = document.querySelector("#remove")
+const statusText = document.querySelector("h5");
+const btn = document.querySelector("#add");
 
-addFriend.addEventListener("click", function(){
+let isFriend = false;
+
+btn.addEventListener("click", () => {
+  if (!isFriend) {
     statusText.textContent = "Friends";
     statusText.style.color = "green";
-})
-
-removeFriend.addEventListener("click", function(){
+    btn.textContent = "Remove Friend";
+    isFriend = true;
+  } else {
     statusText.textContent = "Stranger";
-    statusText.style.color = "red"
-})
-
+    statusText.style.color = "red";
+    btn.textContent = "Add Friend";
+    isFriend = false;
+  }
+});
