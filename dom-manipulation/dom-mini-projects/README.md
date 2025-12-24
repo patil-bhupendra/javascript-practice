@@ -9,6 +9,7 @@ These projects helped me strengthen my understanding of DOM manipulation and eve
 1. Add Friend Toggle (Single Button)
 2. Insta Like Button
 3. Custom Cursor Effect
+4. Image Hover Animation
 
 
 More projects and enhancements will be added soon.
