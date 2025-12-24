@@ -7,7 +7,7 @@ These projects helped me strengthen my understanding of DOM manipulation and eve
 ## Projects Included
 
 1. Add Friend Toggle (Single Button)
-2. Insta Love Button
+2. Insta Like Button
 
 
 More projects and enhancements will be added soon.
