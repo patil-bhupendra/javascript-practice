@@ -19,3 +19,14 @@ These projects simulate real-world UI behaviors commonly seen in modern web appl
 - Conditional rendering
 
 ---
+
+### 2️⃣ Instagram Like Button ❤️
+- Double-click to like an image
+- Heart animation appears and disappears smoothly
+
+**Concepts used:**
+- `dblclick` event
+- CSS transform & opacity
+- `setTimeout`
+
+---
