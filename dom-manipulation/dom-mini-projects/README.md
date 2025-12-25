@@ -65,3 +65,10 @@ These projects simulate real-world UI behaviors commonly seen in modern web appl
 - Timers and UI flow logic
 
 ---
+
+## 🛠️ Tech Stack
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+
+---
