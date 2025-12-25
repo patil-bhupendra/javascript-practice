@@ -72,3 +72,11 @@ These projects simulate real-world UI behaviors commonly seen in modern web appl
 - JavaScript (ES6+)
 
 ---
+
+## 🎯 What I Learned
+- Deep understanding of **DOM manipulation**
+- Handling real-world UI interactions
+- Writing clean and structured JavaScript
+- Improving UI/UX using JavaScript + CSS
+
+---
