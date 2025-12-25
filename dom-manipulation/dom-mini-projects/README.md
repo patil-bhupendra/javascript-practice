@@ -42,3 +42,14 @@ These projects simulate real-world UI behaviors commonly seen in modern web appl
 - CSS transitions
 
 ---
+
+### 4️⃣ Image Hover Animation 🖼️
+- Hover over image to trigger animation effects
+- Enhances UI interactivity
+
+**Concepts used:**
+- Mouse events
+- CSS animations
+- DOM styling
+
+---
