@@ -80,3 +80,15 @@ These projects simulate real-world UI behaviors commonly seen in modern web appl
 - Improving UI/UX using JavaScript + CSS
 
 ---
+
+## 📂 Folder Structure
+
+```
+dom-mini-projects/
+│── 01-add-friend-toggle/
+│── 02-instagram-like-button/
+│── 03-custom-cursor-effect/
+│── 04-image-hover-animation/
+│── 05-instagram-story-ui/
+
+```
