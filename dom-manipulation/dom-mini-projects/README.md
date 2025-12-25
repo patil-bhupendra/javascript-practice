@@ -10,6 +10,7 @@ These projects helped me strengthen my understanding of DOM manipulation and eve
 2. Insta Like Button
 3. Custom Cursor Effect
 4. Image Hover Animation
+5. Instagram Story UI
 
 
 More projects and enhancements will be added soon.
