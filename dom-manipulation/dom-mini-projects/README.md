@@ -12,3 +12,10 @@ These projects simulate real-world UI behaviors commonly seen in modern web appl
 - Toggle between **Add Friend / Friends**
 - Uses conditional logic and DOM state updates
 - Demonstrates event handling and text/style changes
+
+**Concepts used:**
+- `querySelector`
+- `addEventListener`
+- Conditional rendering
+
+---
