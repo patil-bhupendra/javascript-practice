@@ -30,3 +30,15 @@ These projects simulate real-world UI behaviors commonly seen in modern web appl
 - `setTimeout`
 
 ---
+
+
+### 3️⃣ Custom Cursor Effect 🖱️
+- Custom cursor follows mouse movement
+- Smooth and interactive UI effect
+
+**Concepts used:**
+- `mousemove` event
+- Dynamic positioning
+- CSS transitions
+
+---
