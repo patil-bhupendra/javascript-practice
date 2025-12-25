@@ -53,3 +53,15 @@ These projects simulate real-world UI behaviors commonly seen in modern web appl
 - DOM styling
 
 ---
+
+### 5️⃣ Instagram Story UI 📱
+- Click on profile images to view stories
+- Auto-closing story effect
+- Inspired by Instagram’s story feature
+
+**Concepts used:**
+- Dynamic DOM creation
+- Arrays & objects
+- Timers and UI flow logic
+
+---
