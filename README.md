@@ -8,3 +8,5 @@ covering core concepts to strengthen fundamentals.
 
 ## 🧩 DOM Mini Projects
 - Add Friend Toggle
+- Instagram Like Button
+  
