@@ -10,4 +10,5 @@ covering core concepts to strengthen fundamentals.
 - Add Friend Toggle
 - Instagram Like Button
 - Custom Cursor Effect
+- Image Hover Animation
 
