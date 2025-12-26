@@ -5,3 +5,6 @@ covering core concepts to strengthen fundamentals.
 
 ## 🚀 Live Demo
 👉 https://javascript-practice-sandy.vercel.app/
+
+## 🧩 DOM Mini Projects
+- Add Friend Toggle
