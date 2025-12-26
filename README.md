@@ -1,7 +1,7 @@
 # JavaScript Practice Repository
 
-This repository contains structured JavaScript practice code
-covering core concepts to strengthen fundamentals.
+This repository contains structured JavaScript practice projects focused on
+strengthening core JavaScript concepts and DOM manipulation skills.
 
 ## 🚀 Live Demo
 👉 https://javascript-practice-sandy.vercel.app/
