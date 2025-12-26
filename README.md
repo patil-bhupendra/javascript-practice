@@ -2,3 +2,6 @@
 
 This repository contains structured JavaScript practice code
 covering core concepts to strengthen fundamentals.
+
+## 🚀 Live Demo
+👉 https://javascript-practice-sandy.vercel.app/
