@@ -11,4 +11,4 @@ covering core concepts to strengthen fundamentals.
 - Instagram Like Button
 - Custom Cursor Effect
 - Image Hover Animation
-
+- Instagram Story UI
