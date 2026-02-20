@@ -67,6 +67,6 @@ The goal of this repository is to:
 ---
 
 ## 📌 Author
-- Bhupendra Patil
+**Bhupendra Patil**
 Full Stack MERN Developer  
 Building projects and improving every day 🚀
