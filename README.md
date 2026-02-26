@@ -1,5 +1,9 @@
 # JavaScript Practice Repository
 
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow)
+![Status](https://img.shields.io/badge/Status-Active-success)
+![Live Demo](https://img.shields.io/badge/Live-Demo-blue)
+
 This repository represents my structured journey of learning and mastering core JavaScript concepts through hands-on practice and interactive mini projects.
 
 It includes fundamental programming concepts, array methods, problem-solving exercises, and DOM manipulation with real-world UI implementations.
