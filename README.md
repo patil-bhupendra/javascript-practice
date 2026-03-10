@@ -99,3 +99,11 @@ This repository demonstrates my ability to:
 It acts as a **strong JavaScript foundation for full-stack applications.**
 
 ---
+# 🛠 Tech Stack
+
+- **HTML5**
+- **CSS3**
+- **JavaScript (ES6+)**
+- **Vercel (Deployment)**
+
+---
