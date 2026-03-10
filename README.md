@@ -68,3 +68,18 @@ This repository focuses on writing **clean, modular, and well-organized code** w
 ---
 
 # 📂 Project Structure
+```
+javascript-practice
+│
+├── array
+├── closure
+├── control-flow
+├── dom-basics
+├── dom-events
+├── dom-manipulation
+├── forms-and-form-validation
+├── functions
+├── object
+├── thisKeyword
+└── timers-and-intervals
+```
