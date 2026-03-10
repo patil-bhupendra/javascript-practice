@@ -84,3 +84,4 @@ javascript-practice
 └── timers-and-intervals
 ```
 Each folder contains **focused examples, exercises, and mini projects** to strengthen practical JavaScript knowledge.
+---
