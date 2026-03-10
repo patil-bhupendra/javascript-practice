@@ -85,3 +85,17 @@ javascript-practice
 ```
 Each folder contains **focused examples, exercises, and mini projects** to strengthen practical JavaScript knowledge.
 ---
+# 🎯 Objectives
+
+This repository demonstrates my ability to:
+
+- Write **structured and maintainable JavaScript**
+- Apply **functional programming concepts**
+- Manipulate the **DOM efficiently**
+- Build **interactive UI components**
+- Organize **scalable project structures**
+- Prepare for **real-world MERN stack development**
+
+It acts as a **strong JavaScript foundation for full-stack applications.**
+
+---
