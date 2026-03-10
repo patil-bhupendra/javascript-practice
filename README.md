@@ -107,3 +107,7 @@ It acts as a **strong JavaScript foundation for full-stack applications.**
 - **Vercel (Deployment)**
 
 ---
+# 📌 Author
+
+**Bhupendra Patil**  
+Full Stack MERN Developer
