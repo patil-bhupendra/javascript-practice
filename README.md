@@ -140,9 +140,10 @@ This repository demonstrates my ability to:
 - Manipulate the **DOM efficiently**
 - Build **interactive UI components**
 - Organize **scalable project structures**
-- Prepare for **real-world MERN stack development**
+- Understand **core-to-advanced JavaScript concepts**
+- Prepare for **React.js and real-world MERN stack development**
 
-It acts as a **strong JavaScript foundation for full-stack applications.**
+This repository acts as a **strong JavaScript foundation for full-stack applications.**
 
 ---
 # 🛠 Tech Stack
