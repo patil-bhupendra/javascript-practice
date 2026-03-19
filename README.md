@@ -166,8 +166,7 @@ git clone https://github.com/patil-bhupendra/javascript-practice.git
 ```
 cd javascript-practice
 ```
-
-Open any project folder and run index.html in your browser.
+3. Open any project folder and run ```index.html``` in your browser.
 
 Recommended: Use VS Code Live Server for a better development experience.
 ---
