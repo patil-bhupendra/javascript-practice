@@ -168,8 +168,8 @@ cd javascript-practice
 ```
 3. Open any project folder and run ```index.html``` in your browser.
 
-Recommended: Use VS Code Live Server for a better development experience.
----
+Recommended: Use **VS Code Live Server** for a better development experience.
+
 # 📌 Author
 
 **Bhupendra Patil**  
