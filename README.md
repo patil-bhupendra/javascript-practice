@@ -178,6 +178,8 @@ This repository reflects my **hands-on JavaScript learning journey** and serves 
 - **JavaScript interview preparation**
 - **Full Stack MERN development**
 
+  > This repository is part of my journey toward becoming a stronger **Frontend / Full Stack MERN Developer**, with a focus on mastering JavaScript fundamentals before moving deeper into React.js and scalable application development.
+
 # 📌 Author
 
 **Bhupendra Patil**  
