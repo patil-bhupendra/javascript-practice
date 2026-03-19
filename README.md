@@ -153,6 +153,23 @@ This repository acts as a **strong JavaScript foundation for full-stack applicat
 - **JavaScript (ES6+)**
 - **Vercel (Deployment)**
 
+## ▶️ How to Run Locally
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/patil-bhupendra/javascript-practice.git
+```
+
+2. Navigate into the project folder
+
+```
+cd javascript-practice
+```
+
+Open any project folder and run index.html in your browser.
+
+Recommended: Use VS Code Live Server for a better development experience.
 ---
 # 📌 Author
 
